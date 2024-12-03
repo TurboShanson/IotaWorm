@@ -1,0 +1,6 @@
+names:
+- head
+nc: 1
+path: iota_dataset
+train: images/train
+val: images/val
